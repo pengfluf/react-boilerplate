@@ -13,3 +13,5 @@ asdf install && pnpm i && pnpm dev
 - [asdf](https://asdf-vm.com/)
 - [pnpm](https://pnpm.io/)
 - [Vite](https://v4.vite.dev/)
+- [Redux Toolkit](https://redux-toolkit.js.org/)
+- [React Router](https://reactrouter.com/)
