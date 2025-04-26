@@ -60,18 +60,6 @@ const base = {
       },
     ],
 
-    'no-unused-vars': 'off',
-    '@typescript-eslint/no-unused-vars': [
-      'error',
-      {
-        vars: 'all',
-        args: 'after-used',
-        ignoreRestSiblings: true,
-        argsIgnorePattern: '^_',
-        caughtErrors: 'none',
-      },
-    ],
-
     '@typescript-eslint/no-misused-promises': [
       'error',
       { checksVoidReturn: false },
